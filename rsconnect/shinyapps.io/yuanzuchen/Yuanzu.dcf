@@ -1,0 +1,14 @@
+name: Yuanzu
+title: Yuanzu
+username:
+account: yuanzuchen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8485693
+bundleId: 6920270
+url: https://yuanzuchen.shinyapps.io/Yuanzu/
+when: 1678087474.37971
+lastSyncTime: 1678087474.37973
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: owid-co2-data-3.csv

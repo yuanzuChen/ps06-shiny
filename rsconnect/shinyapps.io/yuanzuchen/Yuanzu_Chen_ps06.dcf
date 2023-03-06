@@ -1,0 +1,14 @@
+name: Yuanzu_Chen_ps06
+title: Yuanzu_Chen_ps06
+username:
+account: yuanzuchen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8485679
+bundleId: 6920265
+url: https://yuanzuchen.shinyapps.io/Yuanzu_Chen_ps06/
+when: 1678087343.45715
+lastSyncTime: 1678087343.45716
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: owid-co2-data-3.csv
